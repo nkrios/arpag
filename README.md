@@ -3,6 +3,11 @@ Otomatik exploit aracı
 
 "arpağ:Türk mitolojisinde büyülü söz anlamındadır.Exploit etme işlemini otomatik yaptığı için araç adı arpağ seçilmiştir."
 
+Yükleme:
+git clone https://github.com/anilbaranyelken/arpag.git
+cd tulpar
+pip install -r requests
+
 Kullanım:
 arpag.py [-h] IP_address Exploit_status Port_baslangic Port_bitis
 
