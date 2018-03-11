@@ -1,4 +1,3 @@
-
 # arpag
 Otomatik exploit aracı
 
@@ -39,6 +38,32 @@ python arpag.py 192.168.1.24 False 20 30
 
 [+]Metasploit exploit: exploit/unix/ftp/vsftpd_234_backdoor
 
+<img src="https://github.com/anilbaranyelken/arpag/blob/master/arpagExploitFalse.JPG">
 
+Örnek Kullanım:
+
+python arpag.py 192.168.1.24 True 1 80
+
+[+]Port:  21
+
+[+]Servis: : 220 (vsFTPd 2.3.4)
+
+[+]Port:  22
+
+[+]Servis: : SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
+
+[+]Port:  23
+
+[+]Servis: : ���� ��#��'
+
+[+]Port:  25
+
+[+]Servis: : 220 metasploitable.localdomain ESMTP Postfix (Ubuntu)
+
+[+]Exploit kontrolleri başlıyor...
+
+[+]Serviste exploit kontrolü başlıyor:  220 (vsFTPd 2.3.4)
+
+[+]Metasploit exploit: exploit/unix/ftp/vsftpd_234_backdoor
 
 <img src="https://github.com/anilbaranyelken/arpag/blob/master/arpag.JPG">
