@@ -6,7 +6,7 @@ Installation:
 
 git clone https://github.com/anilbaranyelken/arpag.git
 
-cd tulpar
+cd arpag
 
 pip install -r requests
 
